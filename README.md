@@ -39,6 +39,28 @@
     <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">
     <img align="center" alt="Natália-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   </a>
+   </a>
+    <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">
+    <img align="center" alt="Natália-Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg">
+  </a>
+  </a>
+    <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">
+    <img align="center" alt="Natália-Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  </a>
+ </a>
+    <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">
+    <img align="center" alt="Natália-Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg">
+  </a>
+  </a>
+    <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">
+    <img align="center" alt="Natália-Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  </a>
+   </a>
+    <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">
+    <img align="center" alt="Natália-Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+  </a>
+  
+
 
 
 
