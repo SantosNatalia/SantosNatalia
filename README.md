@@ -44,7 +44,7 @@
     <img align="center" alt="Natália-Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg">
   </a>
   </a>
-    <a href="" target="_blank">
+    <a href="https://www.kernel.org/doc/html/v4.10/index.html" target="_blank">
     <img align="center" alt="Natália-Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   </a>
  </a>
