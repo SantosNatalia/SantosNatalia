@@ -1,6 +1,6 @@
 # Olá! 
 
-##Formações
+#Formações
 <br />  Curso Técnico de Informática 
 <br /> Instituição: ISERJ (Instituto Superior de Educação do Rio de Janeiro)
 <br /> Status: concluído; 
