@@ -9,7 +9,7 @@
 <br />  Instituição: Centro Universitário UniCarioca
 <br />  status: concluído; 
 
-<br /> Curso Superior de Ciência da Computação no Centro Universitário UniCarioca
+<br /> Curso Superior de Ciência da Computação 
 <br />  Instituição: Centro Universitário UniCarioca
 <br />  status: cursando; 
   
