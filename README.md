@@ -4,13 +4,13 @@
 <br /> Status: concluído; 
 
 
-- Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
-  Instituição: Centro Universitário UniCarioca
-  status: concluído; 
+<br /> - Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
+<br />  Instituição: Centro Universitário UniCarioca
+<br />  status: concluído; 
   
-- Curso Superior de Ciência da Computação no Centro Universitário UniCarioca
-  Instituição: Centro Universitário UniCarioca
-  status: cursando; 
+<br /> - Curso Superior de Ciência da Computação no Centro Universitário UniCarioca
+<br />  Instituição: Centro Universitário UniCarioca
+<br />  status: cursando; 
   
 ### Tecnologias
 <div style="display: inline-block">
