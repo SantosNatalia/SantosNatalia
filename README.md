@@ -1,17 +1,4 @@
-# Olá! 
-
-# Formações
-<br />  Curso Técnico de Informática 
-<br /> Instituição: ISERJ (Instituto Superior de Educação do Rio de Janeiro)
-<br /> Status: concluído; 
-
-<br /> Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
-<br />  Instituição: Centro Universitário UniCarioca
-<br />  status: concluído; 
-
-<br /> Curso Superior de Ciência da Computação 
-<br />  Instituição: Centro Universitário UniCarioca
-<br />  status: cursando; 
+# Olá, meu nome é Natália, tenho 28 anos, conclui o Curso Técnico de Informática no ISERJ (Instituto Superior de Educação do Rio de Janeiro) e o Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no Centro Universitário UniCarioca. Atualmente estou cursando o último período do Curso Superior de Ciência da Computação no Centro Universitário UniCarioca. 
   
 ## Tecnologias
 <div style="display: inline-block">
