@@ -11,7 +11,7 @@
 
 <br /> Curso Superior de Ciência da Computação no Centro Universitário UniCarioca
 <br />  Instituição: Centro Universitário UniCarioca
-< br />  status: cursando; 
+<br />  status: cursando; 
   
 ## Tecnologias
 <div style="display: inline-block">
