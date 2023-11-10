@@ -1,17 +1,17 @@
 # Olá! 
 
 ##Formações
-    ##  Curso Técnico de Informática 
-    <br />Instituição: ISERJ (Instituto Superior de Educação do Rio de Janeiro)
-    <br /> Status: concluído; 
-    ## Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
-    <br />  Instituição: Centro Universitário UniCarioca
-    <br />  status: concluído; 
-    ## Curso Superior de Ciência da Computação no Centro Universitário UniCarioca
-    <br />  Instituição: Centro Universitário UniCarioca
-    < br />  status: cursando; 
+##  Curso Técnico de Informática 
+<br />Instituição: ISERJ (Instituto Superior de Educação do Rio de Janeiro)
+<br /> Status: concluído; 
+## Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
+<br />  Instituição: Centro Universitário UniCarioca
+<br />  status: concluído; 
+## Curso Superior de Ciência da Computação no Centro Universitário UniCarioca
+<br />  Instituição: Centro Universitário UniCarioca
+< br />  status: cursando; 
   
-### Tecnologias
+## Tecnologias
 <div style="display: inline-block">
   <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
     <img align="center" alt="Natália-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
