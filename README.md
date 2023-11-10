@@ -1,5 +1,16 @@
 ## Olá! 
+- Curso Técnico de Informática 
+  Instituição: ISERJ (Instituto Superior de Educação do Rio de Janeiro) 
+  status: concluído; 
 
+- Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
+  Instituição: Centro Universitário UniCarioca
+  status: concluído; 
+  
+- Curso Superior de Ciência da Computação no Centro Universitário UniCarioca
+  Instituição: Centro Universitário UniCarioca
+  status: cursando; 
+  
 ### Tecnologias
 <div style="display: inline-block">
   <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
