@@ -1,5 +1,4 @@
-## Olá! Meu nome é Natália Soares Santos.
-
+## Olá! 
 
 ### Tech Stack
 <div style="display: inline-block">
