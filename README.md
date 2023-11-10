@@ -1,6 +1,6 @@
 ## Olá! 
 
-### Tech Stack
+### Tecnologias
 <div style="display: inline-block">
   <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
     <img align="center" alt="Natália-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
