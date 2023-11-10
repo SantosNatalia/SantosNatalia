@@ -1,13 +1,13 @@
 # Olá! 
 
 ##Formações
-##  Curso Técnico de Informática 
+#  Curso Técnico de Informática 
 <br />Instituição: ISERJ (Instituto Superior de Educação do Rio de Janeiro)
 <br /> Status: concluído; 
-## Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
+# Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
 <br />  Instituição: Centro Universitário UniCarioca
 <br />  status: concluído; 
-## Curso Superior de Ciência da Computação no Centro Universitário UniCarioca
+# Curso Superior de Ciência da Computação no Centro Universitário UniCarioca
 <br />  Instituição: Centro Universitário UniCarioca
 < br />  status: cursando; 
   
