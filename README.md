@@ -1,7 +1,7 @@
 ## Olá! 
-<p>- Curso Técnico de Informática 
-  Instituição: ISERJ (Instituto Superior de Educação do Rio de Janeiro) 
-  status: concluído; </p>
+<p> Curso Técnico de Informática </p>
+<p> Instituição: ISERJ (Instituto Superior de Educação do Rio de Janeiro) </p>
+<p> Status: concluído; </p>
 
 - Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
   Instituição: Centro Universitário UniCarioca
