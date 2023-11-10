@@ -1,17 +1,18 @@
-## Olá! 
+# Olá! 
 
-<br />  Curso Técnico de Informática 
-<br /> Instituição: ISERJ (Instituto Superior de Educação do Rio de Janeiro)
-<br /> Status: concluído; 
+##Formações
+###  Curso Técnico de Informática 
+    <br />Instituição: ISERJ (Instituto Superior de Educação do Rio de Janeiro)
+    <br /> Status: concluído; 
 
 
-<br />  Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
-<br />  Instituição: Centro Universitário UniCarioca
-<br />  status: concluído; 
+### Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
+    <br />  Instituição: Centro Universitário UniCarioca
+    <br />  status: concluído; 
   
-<br />  Curso Superior de Ciência da Computação no Centro Universitário UniCarioca
-<br />  Instituição: Centro Universitário UniCarioca
-<br />  status: cursando; 
+### Curso Superior de Ciência da Computação no Centro Universitário UniCarioca
+    <br />  Instituição: Centro Universitário UniCarioca
+    < br />  status: cursando; 
   
 ### Tecnologias
 <div style="display: inline-block">
